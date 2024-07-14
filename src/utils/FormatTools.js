@@ -1,13 +1,13 @@
 'use strict'
 
-import moment from 'moment'
+import dayjs from 'dayjs'
 
 const fromNow = (time) => {
-  return moment(time).fromNow()
+  return dayjs(time).fromNow()
 }
 
 const hash = (sha) => {
-  return sha.substr(sha.length - 6)
+  return sha.substring(sha.length - 6)
 }
 
 const branch = (ref) => {
