@@ -1,21 +1,17 @@
 # vue-github-activity
 
-[![Build Status](https://img.shields.io/travis/lexmartinez/vue-github-activity/master.svg?style=for-the-badge)](https://travis-ci.org/lexmartinez/vue-github-activity)
 [![GitHub license](https://img.shields.io/github/license/lexmartinez/vue-github-activity.svg?style=for-the-badge)](https://github.com/lexmartinez/vue-github-activity/blob/master/LICENSE.md)
 [![Last version](https://img.shields.io/badge/version-v2.1.1-blue.svg?style=for-the-badge)](https://github.com/lexmartinez/vue-github-activity/blob/master/CHANGELOG.md)
 <br/>
 
-Simple VueJS component that creates a feed panel with your recent GitHub activity. It displays the user's name, username, photo, and a list of each individual activity type.
+Simple VueJS component that creates a feed panel recent activity for a certain user/repository.
 
 > Inspired by [caseyscarborough/github-activity](https://github.com/caseyscarborough/github-activity) repository.
 
-See it in action on [my website](https://lexmartinez.com/)
-
-![](https://github.com/lexmartinez/vue-github-activity/raw/master/screenshot.png)
+> Forked from [lexmartinez/vue-github-activity](https://github.com/lexmartinez/vue-github-activity)
 
 ## Installation
 
-`npm install --save vue-github-activity`
 
 ## Dependencies
 
